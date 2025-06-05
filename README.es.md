@@ -60,3 +60,9 @@ Abramos el camino.
 
 > El futuro de la web no es un link.  
 > Es una conversación.
+
+---
+## Licencia
+
+Este proyecto está bajo la licencia MIT.  
+Podés ver el texto completo en el archivo [LICENSE](./LICENSE).
