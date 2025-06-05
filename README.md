@@ -62,3 +62,10 @@ Open the path.
 
 > The future of the web is not a link.  
 > It’s a conversation.
+
+---
+
+## License
+
+This project is licensed under the MIT License.  
+You can find the full license text in the [LICENSE](./LICENSE) file.
